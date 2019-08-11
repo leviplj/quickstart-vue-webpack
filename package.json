@@ -1,0 +1,29 @@
+{
+  "name": "quickstart-vue-webpack",
+  "version": "1.0.0",
+  "description": "\"# quickstart-vue-webpack\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leviplj/quickstart-vue-webpack.git"
+  },
+  "author": "leviplj <leviplj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leviplj/quickstart-vue-webpack/issues"
+  },
+  "homepage": "https://github.com/leviplj/quickstart-vue-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
